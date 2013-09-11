@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ELFAddins", "ELFAddins\ELFAddins.csproj", "{3E9ACBA4-267D-43AD-A27D-5FEEE018B044}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ELFAddinsSetup", "ELFAddinsSetup\ELFAddinsSetup.vdproj", "{E7BB6B37-B447-4DD8-9A37-EC7C4227E4E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ELFMarketDataLib", "ELFMarketDataLib\ELFMarketDataLib.csproj", "{C88D70FD-06D2-484A-ADFA-C63B5043E364}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E9ACBA4-267D-43AD-A27D-5FEEE018B044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E9ACBA4-267D-43AD-A27D-5FEEE018B044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E9ACBA4-267D-43AD-A27D-5FEEE018B044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E9ACBA4-267D-43AD-A27D-5FEEE018B044}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7BB6B37-B447-4DD8-9A37-EC7C4227E4E9}.Debug|Any CPU.ActiveCfg = Debug
+		{E7BB6B37-B447-4DD8-9A37-EC7C4227E4E9}.Release|Any CPU.ActiveCfg = Release
+		{C88D70FD-06D2-484A-ADFA-C63B5043E364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C88D70FD-06D2-484A-ADFA-C63B5043E364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C88D70FD-06D2-484A-ADFA-C63B5043E364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C88D70FD-06D2-484A-ADFA-C63B5043E364}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
